@@ -13,15 +13,10 @@
     "dbmigrate:s": "NODE_ENV=staging npx sequelize-cli db:migrate",
     "dbmigrate:p": "NODE_ENV=production npx sequelize-cli db:migrate"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://bagus.rinaldhi@git.pawoon.com/microservices/table-management.git"
-  },
   "keywords": [
     "microservices",
     "orm"
   ],
-  "author": "Bagus Rinaldhi",
   "license": "ISC",
   "dependencies": {
     "@babel/cli": "^7.17.6",

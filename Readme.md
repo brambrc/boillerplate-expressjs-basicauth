@@ -1,0 +1,1 @@
+## Expressjs Boillerplate with Sequelize & basic auth
